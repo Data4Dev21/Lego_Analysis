@@ -10,11 +10,9 @@ This project focused on creating a Schema, its associated tables and anlysing th
 ## Table of Contents
 
 - [Setting up Schema](#setting-up-schema)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Analysis and Visualizations](#analysis-and-visualizations)
-- [Contributing](#contributing)
-- [License](#license)
+- [Lego Set Analysis](#lego-set-analysis)
+- [Data Visualisation](#data-visualisation)
+- [Record Project on Git-Hub](#record-project-on-git-hub)
 
 ## Setting up Schema
 
